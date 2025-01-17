@@ -1,4 +1,4 @@
-# Windows 11 Activation Key
+# Windows 11 Pro Activation Key
 
 ## Step 1 :
 
