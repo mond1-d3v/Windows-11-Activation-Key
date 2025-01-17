@@ -27,3 +27,4 @@ slmgr /ato
 ## Step 3 :
 
 **Go to Settings -> System -> Activation and your Windows 11 Pro should be activated**
+***(Sometimes you should restart your PC after doing the activation)***
